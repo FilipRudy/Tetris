@@ -1,0 +1,3 @@
+﻿  Tetris_V2.cpp
+C:\Users\filip\Downloads\tetris2-main\tetris2-main\Tetris_V2\Tetris_V2\Board.h(69,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Tetris_V2.vcxproj -> C:\Users\filip\Downloads\tetris2-main\tetris2-main\Tetris_V2\x64\Debug\Tetris_V2.exe
